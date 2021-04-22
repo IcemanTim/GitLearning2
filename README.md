@@ -21,7 +21,7 @@
   <version>1.0.0</version>
 </dependency>
 
-#iOS (добавьте код в ваш Podfile):
-platform :ios, '8.0'
+# iOS (добавьте код в ваш Podfile):
+platform : ios, '8.0'
 pod "neuro-ios-sdk"
 
